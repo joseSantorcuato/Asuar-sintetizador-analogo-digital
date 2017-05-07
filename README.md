@@ -2,7 +2,7 @@
 #SINTETIZADOR ASUAR
 #JOSÉ SANTORCUATO TAPIA
 #santorcuato76@gmail.com
-#Chile 2017
+#Chile 2014
 
 Sintetizador digital de comportamiento análogo.
 </br>
